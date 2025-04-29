@@ -1,7 +1,6 @@
 /// <reference types="cypress" />
 
-// This is a basic Cypress test file
-// It contains a single test that visits a website
+
 describe('US-012-Funcionalidade: Cadastro de membros', () => {
 beforeEach(() => {
   cy.visit('/')
